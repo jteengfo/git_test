@@ -1,0 +1,1 @@
+This is James Te Eng Fo's first git project! 
